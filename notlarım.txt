@@ -1,1 +1,2 @@
 Merhaba GitHub! Bu benim ilk dosyam.
+Alışveriş listesi: ekmek, süt, elma
